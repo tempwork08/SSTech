@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Welcome | Jitendra's Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #eef2f3;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #006400;
+    }
+    p {
+      font-size: 1.2em;
+      color: #444;
+    }
+    .button {
+      background-color: #006400;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      font-size: 1em;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>🌟 Welcome to My Free Website 🌟</h1>
+  <p>This website was proudly created by Jitendra, and hosted 100% free.</p>
+  <button class="button" onclick="alert('Thanks for visiting!')">Click Me</button>
+</body>
+</html>
